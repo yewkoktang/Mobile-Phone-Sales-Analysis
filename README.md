@@ -59,7 +59,7 @@ The final result is a **three-page Power BI dashboard** that enables users to ex
 
 ## 📸 Dashboard Report
 
-📄 [View Full Dashboard Report (PNG)](powerbi_report/Mobile Phone Sales Analysis.png)
+📄 [View Full Dashboard Report (PNG)](powerbi_report/Mobile_Phone_Sales_Analysis.png)
 
 ---
 
