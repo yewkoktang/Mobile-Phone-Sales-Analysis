@@ -94,6 +94,6 @@ The final result is a **three-page Power BI dashboard** that enables users to ex
 
 ## 📬 Connect With Me
 
-If you have feedback or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yewkoktang/). I'm always looking to grow as a data analyst and learn from the community!
+If you have feedback or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yewkoktang/). 
 
 ---
