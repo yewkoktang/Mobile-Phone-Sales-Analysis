@@ -84,14 +84,6 @@ The final result is a **three-page Power BI dashboard** that enables users to ex
 
 ---
 
-## 📎 Files Included
-
-- `Excel file`: The dataset
-- `README.md`: This file
-- `PNG file`: The report pages
-
----
-
 ## 📬 Connect With Me
 
 If you have feedback or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yewkoktang/). 
